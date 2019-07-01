@@ -33,7 +33,7 @@
 				<key>bundle-version</key>
 				<string>0.0.1</string>
 				<key>kind</key>
-				<string>power</string>
+				<string>com.ccs.dev</string>
 				<key>title</key>
 				<string>mrss</string>
 			</dict>
